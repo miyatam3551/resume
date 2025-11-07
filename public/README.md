@@ -1,24 +1,21 @@
-**注意事項(使用前に必ずお読みください)**
-> 本ページは[tsukuboshi/honox-resume-template](https://github.com/tsukuboshi/honox-resume-template)というテンプレートリポジトリを用いてデプロイした職務経歴書テンプレートのサンプルになります。該当リポジトリから"Use this template"で新規のリポジトリを作成したのち、ご自身の経歴に合わせて"public/README.md"を編集しコミットする事で内容を更新してください。なお「アカウント」及び「業務外活動」にはリポジトリ作成者であるつくぼしのリンク先URLを例として載せているため、実際に使用する際はご自身のアカウントのリンク先に置き換えてください。  
-
-## 基本情報
+## 基本情報(工事中)
 
 ### プロフィール
 
 |項目|値|
 |---|---|
-|ハンドルネーム|[あなたのハンドルネーム]|
-|最終学歴|[あなたの最終学歴]|
-|経験職種|[あなたの経験職種]|
+|ハンドルネーム|miyatam3551|
+|最終学歴|筑波大学大学院 知能機能システム専攻卒|
+|経験職種|クラウドインフラエンジニア、製造業原価企画、スタートアップ経営|
 
 ### アカウント
 
-- [Zenn](https://zenn.dev/tsukuboshi)
-- [Qiita](https://qiita.com/kuraboshi)
-- [Github](https://github.com/tsukuboshi)
-- [SpeakerDeck](https://speakerdeck.com/tsukuboshi)
-- [Docswell](https://www.docswell.com/user/tsukuboshi)
-- [X](https://x.com/tsukuboshi0755)
+- [Zenn](https://zenn.dev/miyatam3551)
+- [Qiita](https://qiita.com/miyatam3551)
+- [Github](https://github.com/miyatam3551)
+- [SpeakerDeck](https://speakerdeck.com/miyatam3551)
+- [Docswell](https://www.docswell.com/user/miyatam3551)
+- [X](https://x.com/miyatam3551)
 
 ## 業務スキル
 
