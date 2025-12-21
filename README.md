@@ -37,14 +37,26 @@
 
 ### 資格
 
-|資格名|取得日|
+|取得年月|資格名|
 |---|---|
-|[資格名①]|[取得日]|
-|[資格名②]|[取得日]|
+|2009/10|第二種電気工事士|
+|2012/04|基本情報技術者試験|
+|2018/04|応用情報技術者試験|
+|2024/11|AWS Certified Solutions Architect – Associate|
+|2025/01|AWS Certified AI Practitioner|
+|2025/02|AWS Certified Machine Learning Engineer – Associate|
+|2025/02|AWS Certified Developer – Associate|
+|2025/06|GitHub Copilot|
+|2025/09|GitHub Foundations|
+|2025/09|AWS Certified SysOps Administrator – Associate|
+|2025/10|AWS Certified Data Engineer – Associate|
+|2025/11|AWS Certified Solutions Architect – Professional|
+|2025/11|GitHub Actions|
+|2025/12|AWS Certified DevOps Engineer – Professional|
 
 ## 経歴
 
-### [会社名①]（YYYY/MM - YYYY/MM）
+### [本田技研工業株式会社]（2008/04 - 2024/04）
 
 ```txt
 [業務内容のサマリーを記述してください]
@@ -75,7 +87,30 @@
 - [使用技術カテゴリ1]：`[技術名1]` `[技術名2]`
 - [使用技術カテゴリ2]： `[技術名1]`
 
-### [会社名②]（YYYY/MM - YYYY/MM)
+#### [プロジェクト名] （YYYY/MM - YYYY/MM)
+
+**概要**
+
+[プロジェクト概要を記述してください]
+
+**担当**
+
+1. [担当フェーズ1]
+2. [担当フェーズ2]
+3. [担当フェーズ3]
+
+**業務内容**
+
+1. [業務内容1]
+2. [業務内容2]
+3. [業務内容3]
+
+**使用技術**
+
+- [使用技術カテゴリ1]：`[技術名1]` `[技術名2]`
+- [使用技術カテゴリ2]： `[技術名1]`
+
+### [株式会社NTTデータ先端技術]（2024/05 - 現在）
 
 ```txt
 [業務内容のサマリーを記述してください]
@@ -111,39 +146,38 @@
 
 |リポジトリ名|言語|概要|
 |---|---|---|
-|[dotfiles](https://github.com/tsukuboshi/dotfiles)|`Bash`|自身の PC セットアップ用の dotfiles|
-|[sam-notify-aws-billing](https://github.com/tsukuboshi/sam-notify-aws-billing)|`SAM` `Python`|AWS 利用料金を通知するサーバレスシステムコード|
+|[dotfiles](https://github.com/miyatam3551/dotfiles)|`Bash`|自身の PC セットアップ用の dotfiles|
 
 ### ブログ投稿
 
 以下では投稿したブログの内、主要なものを記載します。  
 
-#### Zenn埋め込みの例
+#### Zenn
 
-- [Macの環境をdotfilesでセットアップしてみた改](https://zenn.dev/tsukuboshi/articles/6e82aef942d9af)
+- [ローカルLLM クイックスタートガイド](https://zenn.dev/miyatam3551/articles/3389f4d0a198de)
 
-#### Qiita埋め込みの例
+#### Qiita
 
-- [【備忘録】Kubernetesの仕組みを整理する](https://qiita.com/kuraboshi/items/036ba1b5cf67cb8a6dcd)
+- [ASKULのランサムウェアインシデントレポートをAIと分解して分かった“良い報告書”の構成](https://qiita.com/miyatam3551/items/dc544826c0a33b8db08a)
 
 ### イベント登壇
 
 以下では登壇したイベントの内、主要な資料及び動画を記載します。
 
-#### Docswell埋め込みの例
+#### Docswell
 
 **資料**
 
-- [Amazon Bedrock GenUハンズオン座学資料 #1 GenU環境で生成AIを体験してみよう - Docswell](https://www.docswell.com/slide/ZXE8GN/embed)
+- []()
 
-#### SpeakerDeck埋め込みの例
+#### SpeakerDeck
 
 **資料**
 
-- [AWSとGitHubを用いたパターン別CI/CD構成解説 - Speaker Deck](https://speakerdeck.com/player/13ed26fb607a41d598f64b0b899dd0da)
+- [現場で生きる！ネットワークエンジニアの基本コマンド入門](https://speakerdeck.com/miyatam3551/xian-chang-desheng-kiru-netutowakuenzinianoji-ben-komandoru-men)
 
-#### Youtube埋め込みの例
+#### Youtube
 
 **動画**
 
-- [AWS基盤でのCI/CD構成を徹底解説！CodeシリーズとGitHubの使い分けも解消 - YouTube](https://www.youtube.com/embed/nJ-eEgfbjG8?si=CiEVatkJa5fNdYqC)
+- []()
