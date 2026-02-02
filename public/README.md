@@ -96,7 +96,7 @@
 
 ## 保有称号
 
-https://www.credly.com/users/miyatam3551/
+[Credly](https://www.credly.com/users/miyatam3551/)
 
 ### 資格
 
