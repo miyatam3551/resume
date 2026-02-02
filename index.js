@@ -101,7 +101,7 @@ var Cr=Object.defineProperty;var Kt=e=>{throw TypeError(e)};var Or=(e,t,n)=>t in
 
 ## 保有称号
 
-https://www.credly.com/users/miyatam3551/
+[Credly](https://www.credly.com/users/miyatam3551/)
 
 ### 資格
 
